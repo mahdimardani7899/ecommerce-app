@@ -1,0 +1,15 @@
+img {
+    width:90%;
+    height: 60px;
+    object-fit: contain;
+    margin: 1rem auto;
+  }
+
+  .itemOnHome{
+    border-radius: 20px;
+  }
+.itemOnHome:hover{
+  border: 1.5px solid rgb(0, 255, 200);
+}
+
+
